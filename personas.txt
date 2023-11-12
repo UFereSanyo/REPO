@@ -1,0 +1,12 @@
+Nombre: Juan
+Apellido: Perez
+Edad: 25
+
+Nombre: Maria
+Apellido: Lopez
+Edad: 30
+
+Nombre: Pedro
+Apellido: Gomez
+Edad: 35
+
