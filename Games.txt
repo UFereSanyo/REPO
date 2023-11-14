@@ -1,0 +1,24 @@
+Name: <div class="c-productHero_title g-inner-spacing-bottom-medium g-outer-spacing-top-medium"><div>
+            Fez
+          </div></div>
+Release Date: <span class="g-text-xxsmall u-text-uppercase g-outer-spacing-left-medium u-text-underline">View All</span>
+Score: <div aria-label="Metascore 89 out of 100" class="c-siteReviewScore u-flexbox-column u-flexbox-alignCenter u-flexbox-justifyCenter g-text-bold c-siteReviewScore_green g-color-gray90 c-siteReviewScore_medium" data-v-4cdca868="" title="Metascore 89 out of 100"><span data-v-4cdca868="">89</span></div>
+Nintendo Price: <span class="ScreenReaderOnlystyles__StyledReaderText-sc-1gv8hi6-0 lnGtBM Pricestyles__ScreenReaderOnly-sc-1f0n8u6-2 cKRBkt">Regular Price:</span>
+Amazon Price: US$14.99
+Time: Main Story6 Hours
+Name: <div class="c-productHero_title g-inner-spacing-bottom-medium g-outer-spacing-top-medium"><div>
+            Super Mario Bros. Wonder
+          </div></div>
+Release Date: <span class="g-text-xxsmall u-text-uppercase g-outer-spacing-left-medium u-text-underline">View All</span>
+Score: <div aria-label="Metascore 92 out of 100" class="c-siteReviewScore u-flexbox-column u-flexbox-alignCenter u-flexbox-justifyCenter g-text-bold c-siteReviewScore_green g-color-gray90 c-siteReviewScore_medium" data-v-4cdca868="" title="Metascore 92 out of 100"><span data-v-4cdca868="">92</span></div>
+Nintendo Price: <span class="ScreenReaderOnlystyles__StyledReaderText-sc-1gv8hi6-0 lnGtBM Pricestyles__ScreenReaderOnly-sc-1f0n8u6-2 cKRBkt">Regular Price:</span>
+Amazon Price: US$54.74
+Time: Main Story9 Hours
+Name: <div class="c-productHero_title g-inner-spacing-bottom-medium g-outer-spacing-top-medium"><div>
+            Celeste
+          </div></div>
+Release Date: <span class="g-text-xxsmall u-text-uppercase g-outer-spacing-left-medium u-text-underline">View All</span>
+Score: <div aria-label="Metascore 92 out of 100" class="c-siteReviewScore u-flexbox-column u-flexbox-alignCenter u-flexbox-justifyCenter g-text-bold c-siteReviewScore_green g-color-gray90 c-siteReviewScore_medium" data-v-4cdca868="" title="Metascore 92 out of 100"><span data-v-4cdca868="">92</span></div>
+Nintendo Price: <span class="ScreenReaderOnlystyles__StyledReaderText-sc-1gv8hi6-0 lnGtBM Pricestyles__ScreenReaderOnly-sc-1f0n8u6-2 cKRBkt">Regular Price:</span>
+Amazon Price: US$19.88
+Time: Main Story9 Hours
